@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuisFerroo
+- 👋 Ola, Sou Luis Ferro
 - 👀 Estou buscando conhecer diversas linguagens de programação para me solidificar como dev FULLSTACK em JAVA
 - 🌱 Estou aprendendo pelo básico, desenvolvendo HTML com CSS e JS
 - 💞️ Gostaria encontrar uma vaga de estagio remoto, principalmente em local utilizando JAVA.
